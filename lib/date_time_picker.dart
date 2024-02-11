@@ -133,7 +133,7 @@ class DateTimePicker extends FormField<String> {
   /// to [initialValue] or the empty string.
   ///
   /// For documentation about the various parameters, see the [TextField] class
-  /// and [new TextField], the constructor.
+  /// and [TextField.new], the constructor.
   DateTimePicker({
     Key? key,
     this.type = DateTimePickerType.date,
